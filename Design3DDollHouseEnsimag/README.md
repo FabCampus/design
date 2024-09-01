@@ -4,4 +4,6 @@ Smart Doll House (en français Maison de Poupée Intelligente) est une plateform
 
 Smart Doll House (in French, Maison de Poupée Intelligente) is an educational platform for learning home automation technologies.
 
+STL files can display online with https://www.viewstl.com/
+
 https://air.imag.fr/index.php/SmartDollHouse
