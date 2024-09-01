@@ -1,2 +1,5 @@
-# design
-Design files for Fablab-made mockups
+# 2D and 3D designs for fablab-made mockups
+
+See also
+* https://air.imag.fr
+* https://github.com/fabMSTICLig
